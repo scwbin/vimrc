@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/scwbin/.vim'
+let g:netrw_dirhist_2='/Users/scwbin/ctags-5.8'
+let g:netrw_dirhist_3='/Users/scwbin/Documents/CODE'
+let g:netrw_dirhist_4='/Users/scwbin/Documents/CODE/cscope'
+let g:netrw_dirhist_5='/Users/scwbin/Documents/CODE'
+let g:netrw_dirhist_6='/Users/scwbin/Desktop'
+let g:netrw_dirhist_7='/Users/scwbin'
+let g:netrw_dirhist_8='/Users/scwbin/Desktop'
+let g:netrw_dirhist_9='/Users/scwbin'
